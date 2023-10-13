@@ -32,5 +32,6 @@ public class PiedraPapelTijera {
         }else if(opcion==3 && resultado==1){
          System.out.println("escojiste tijeras, PERDISTE " +nombreJugador);  
         }
+        //https://github.com/jsyh1
      }
 }
